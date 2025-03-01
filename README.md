@@ -47,7 +47,14 @@
 - [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 - [华中科技大学研究生课程资料](https://github.com/lyandut/HUST-Invictus/tree/master)
+- [中山大学课程资料分享](https://github.com/sysuexam/SYSU-Exam)
+- [南京大学课程复习资料](https://github.com/idealclover/NJU-Review-Materials)
+- [郑州大学课程复习资料](https://github.com/CooperNiu/ZZU-Courses-Resource)
+- [广东工业大学计算机学院课程攻略](https://github.com/brenner8023/gdut-course)
 
+
+
+  
 ---
 <div align="center">
   <i>该资料库的资料如有侵犯了您的权利，请在 issue 内反馈</i>
