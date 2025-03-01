@@ -35,10 +35,10 @@
 </div>
 </details>
 
-## Download
+## ⬇️ Download
 若要下载单个文件夹，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可
 
-## Related Works
+## 💕 Related Works
 
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [北大课程资料民间整理](https://github.com/lib-pku/libpku)
