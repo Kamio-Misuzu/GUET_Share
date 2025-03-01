@@ -36,8 +36,9 @@
 </details>
 
 
-
 ---
 <div align="center">
+  <i>该资料库的资料如有侵犯了您的权利，请在 issue 内反馈</i>
+  
   <i>launched by GUET</i>
 </div>
