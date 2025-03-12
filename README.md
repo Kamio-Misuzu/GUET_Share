@@ -64,9 +64,14 @@
 </details>
 
 ---
+## 🚀 学院创新基地
+| 组织名称                 | GitHub 链接                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| 三院科协     | [🔗 sanyuankexie](https://github.com/sanyuankexie)                           |
+| 八院科协 | [🔗 guet-bykx](https://github.com/guet-bykx)                                 |
+| 七院基地   | [🔗 seven-innovation-base](https://github.com/seven-innovation-base)         |
 
-
-
+---
 
 ## 💕 Related Works
 
