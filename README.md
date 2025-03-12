@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>GUET 课程资源共享</h1>
+  <h1>GUET 资源共享</h1>
   <p>
     <img src="https://img.shields.io/github/stars/Kamio-Misuzu/GUET_Share?style=social" alt="stars">
     <img src="https://img.shields.io/github/forks/Kamio-Misuzu/GUET_Share?style=social" alt="forks">
@@ -31,6 +31,7 @@
 - 📐 线性代数
 - 📊 高等数学
 - 📚 概率论与数理统计
+- 📣 竞赛通知
 - ...
 </div>
 </details>
