@@ -9,6 +9,8 @@
 | 华为 ICT 大赛 | 9-11月 | 11-12月 | [点击前往](https://e.huawei.com/cn/talent/#/ict-academy/ict-competition/regional-competition?zoneCode=027425&zoneId=98269624&compId=85131998&divisionName=%E4%B8%AD%E5%9B%BD&type=C001&isCollectGender=N&enrollmentDeadline=undefined&compTotalApplicantCount=132685) |
 | 蓝桥杯全国软件和信息技术专业人才大赛 | 10-12月 | 4月份左右 | [点击前往](https://dasai.lanqiao.cn/) |
 | 全国大学生数学竞赛 | 学校通知 | 待定 | [点击前往](http://www.cmathc.cn/) |
+| 外研社·国才杯 | 学校Q群1031486523(密码：2025) | - | - |
+
 
 ### 📝 说明
 - 以上内容部分参考往届时间，具体时间以官方通知为准。
