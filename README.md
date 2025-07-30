@@ -6,6 +6,9 @@
   </p>
 </div>
 
+## 🏫 school website
+- 主网站: `https://www.guet.edu.cn/` 
+- VPN站点: `https://v.guet.edu.cn/` 
 
 ## ❓How to use
 1. 打开仓库左上角的分支选择器：
