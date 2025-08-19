@@ -75,6 +75,7 @@
 | 三院科协     | [🔗 sanyuankexie](https://github.com/sanyuankexie)                           |
 | 八院科协 | [🔗 guet-bykx](https://github.com/guet-bykx)                                 |
 | 七院基地   | [🔗 seven-innovation-base](https://github.com/seven-innovation-base)         |
+| 机器学习小纵队 | [🔗 https://github.com/FEMATHS](https://github.com/FEMATHS) |
 
 ---
 
