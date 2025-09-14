@@ -1,0 +1,518 @@
+// MLP Structure
+digraph {
+	subgraph cluster_input {
+		label="Input Layer (2 nodes)"
+		input_1
+		input_2
+	}
+	subgraph cluster_hidden1 {
+		label="Hidden Layer 1 (20 nodes)"
+		hidden1_1
+		hidden1_2
+		hidden1_3
+		hidden1_4
+		hidden1_5
+		hidden1_6
+		hidden1_7
+		hidden1_8
+		hidden1_9
+		hidden1_10
+		hidden1_11
+		hidden1_12
+		hidden1_13
+		hidden1_14
+		hidden1_15
+		hidden1_16
+		hidden1_17
+		hidden1_18
+		hidden1_19
+		hidden1_20
+	}
+	subgraph cluster_hidden2 {
+		label="Hidden Layer 2 (20 nodes)"
+		hidden2_1
+		hidden2_2
+		hidden2_3
+		hidden2_4
+		hidden2_5
+		hidden2_6
+		hidden2_7
+		hidden2_8
+		hidden2_9
+		hidden2_10
+		hidden2_11
+		hidden2_12
+		hidden2_13
+		hidden2_14
+		hidden2_15
+		hidden2_16
+		hidden2_17
+		hidden2_18
+		hidden2_19
+		hidden2_20
+	}
+	subgraph cluster_output {
+		label="Output Layer (1 nodes)"
+		output_1
+	}
+	input_1 -> hidden1_1
+	input_2 -> hidden1_1
+	input_1 -> hidden1_2
+	input_2 -> hidden1_2
+	input_1 -> hidden1_3
+	input_2 -> hidden1_3
+	input_1 -> hidden1_4
+	input_2 -> hidden1_4
+	input_1 -> hidden1_5
+	input_2 -> hidden1_5
+	input_1 -> hidden1_6
+	input_2 -> hidden1_6
+	input_1 -> hidden1_7
+	input_2 -> hidden1_7
+	input_1 -> hidden1_8
+	input_2 -> hidden1_8
+	input_1 -> hidden1_9
+	input_2 -> hidden1_9
+	input_1 -> hidden1_10
+	input_2 -> hidden1_10
+	input_1 -> hidden1_11
+	input_2 -> hidden1_11
+	input_1 -> hidden1_12
+	input_2 -> hidden1_12
+	input_1 -> hidden1_13
+	input_2 -> hidden1_13
+	input_1 -> hidden1_14
+	input_2 -> hidden1_14
+	input_1 -> hidden1_15
+	input_2 -> hidden1_15
+	input_1 -> hidden1_16
+	input_2 -> hidden1_16
+	input_1 -> hidden1_17
+	input_2 -> hidden1_17
+	input_1 -> hidden1_18
+	input_2 -> hidden1_18
+	input_1 -> hidden1_19
+	input_2 -> hidden1_19
+	input_1 -> hidden1_20
+	input_2 -> hidden1_20
+	hidden1_1 -> hidden2_1
+	hidden1_2 -> hidden2_1
+	hidden1_3 -> hidden2_1
+	hidden1_4 -> hidden2_1
+	hidden1_5 -> hidden2_1
+	hidden1_6 -> hidden2_1
+	hidden1_7 -> hidden2_1
+	hidden1_8 -> hidden2_1
+	hidden1_9 -> hidden2_1
+	hidden1_10 -> hidden2_1
+	hidden1_11 -> hidden2_1
+	hidden1_12 -> hidden2_1
+	hidden1_13 -> hidden2_1
+	hidden1_14 -> hidden2_1
+	hidden1_15 -> hidden2_1
+	hidden1_16 -> hidden2_1
+	hidden1_17 -> hidden2_1
+	hidden1_18 -> hidden2_1
+	hidden1_19 -> hidden2_1
+	hidden1_20 -> hidden2_1
+	hidden1_1 -> hidden2_2
+	hidden1_2 -> hidden2_2
+	hidden1_3 -> hidden2_2
+	hidden1_4 -> hidden2_2
+	hidden1_5 -> hidden2_2
+	hidden1_6 -> hidden2_2
+	hidden1_7 -> hidden2_2
+	hidden1_8 -> hidden2_2
+	hidden1_9 -> hidden2_2
+	hidden1_10 -> hidden2_2
+	hidden1_11 -> hidden2_2
+	hidden1_12 -> hidden2_2
+	hidden1_13 -> hidden2_2
+	hidden1_14 -> hidden2_2
+	hidden1_15 -> hidden2_2
+	hidden1_16 -> hidden2_2
+	hidden1_17 -> hidden2_2
+	hidden1_18 -> hidden2_2
+	hidden1_19 -> hidden2_2
+	hidden1_20 -> hidden2_2
+	hidden1_1 -> hidden2_3
+	hidden1_2 -> hidden2_3
+	hidden1_3 -> hidden2_3
+	hidden1_4 -> hidden2_3
+	hidden1_5 -> hidden2_3
+	hidden1_6 -> hidden2_3
+	hidden1_7 -> hidden2_3
+	hidden1_8 -> hidden2_3
+	hidden1_9 -> hidden2_3
+	hidden1_10 -> hidden2_3
+	hidden1_11 -> hidden2_3
+	hidden1_12 -> hidden2_3
+	hidden1_13 -> hidden2_3
+	hidden1_14 -> hidden2_3
+	hidden1_15 -> hidden2_3
+	hidden1_16 -> hidden2_3
+	hidden1_17 -> hidden2_3
+	hidden1_18 -> hidden2_3
+	hidden1_19 -> hidden2_3
+	hidden1_20 -> hidden2_3
+	hidden1_1 -> hidden2_4
+	hidden1_2 -> hidden2_4
+	hidden1_3 -> hidden2_4
+	hidden1_4 -> hidden2_4
+	hidden1_5 -> hidden2_4
+	hidden1_6 -> hidden2_4
+	hidden1_7 -> hidden2_4
+	hidden1_8 -> hidden2_4
+	hidden1_9 -> hidden2_4
+	hidden1_10 -> hidden2_4
+	hidden1_11 -> hidden2_4
+	hidden1_12 -> hidden2_4
+	hidden1_13 -> hidden2_4
+	hidden1_14 -> hidden2_4
+	hidden1_15 -> hidden2_4
+	hidden1_16 -> hidden2_4
+	hidden1_17 -> hidden2_4
+	hidden1_18 -> hidden2_4
+	hidden1_19 -> hidden2_4
+	hidden1_20 -> hidden2_4
+	hidden1_1 -> hidden2_5
+	hidden1_2 -> hidden2_5
+	hidden1_3 -> hidden2_5
+	hidden1_4 -> hidden2_5
+	hidden1_5 -> hidden2_5
+	hidden1_6 -> hidden2_5
+	hidden1_7 -> hidden2_5
+	hidden1_8 -> hidden2_5
+	hidden1_9 -> hidden2_5
+	hidden1_10 -> hidden2_5
+	hidden1_11 -> hidden2_5
+	hidden1_12 -> hidden2_5
+	hidden1_13 -> hidden2_5
+	hidden1_14 -> hidden2_5
+	hidden1_15 -> hidden2_5
+	hidden1_16 -> hidden2_5
+	hidden1_17 -> hidden2_5
+	hidden1_18 -> hidden2_5
+	hidden1_19 -> hidden2_5
+	hidden1_20 -> hidden2_5
+	hidden1_1 -> hidden2_6
+	hidden1_2 -> hidden2_6
+	hidden1_3 -> hidden2_6
+	hidden1_4 -> hidden2_6
+	hidden1_5 -> hidden2_6
+	hidden1_6 -> hidden2_6
+	hidden1_7 -> hidden2_6
+	hidden1_8 -> hidden2_6
+	hidden1_9 -> hidden2_6
+	hidden1_10 -> hidden2_6
+	hidden1_11 -> hidden2_6
+	hidden1_12 -> hidden2_6
+	hidden1_13 -> hidden2_6
+	hidden1_14 -> hidden2_6
+	hidden1_15 -> hidden2_6
+	hidden1_16 -> hidden2_6
+	hidden1_17 -> hidden2_6
+	hidden1_18 -> hidden2_6
+	hidden1_19 -> hidden2_6
+	hidden1_20 -> hidden2_6
+	hidden1_1 -> hidden2_7
+	hidden1_2 -> hidden2_7
+	hidden1_3 -> hidden2_7
+	hidden1_4 -> hidden2_7
+	hidden1_5 -> hidden2_7
+	hidden1_6 -> hidden2_7
+	hidden1_7 -> hidden2_7
+	hidden1_8 -> hidden2_7
+	hidden1_9 -> hidden2_7
+	hidden1_10 -> hidden2_7
+	hidden1_11 -> hidden2_7
+	hidden1_12 -> hidden2_7
+	hidden1_13 -> hidden2_7
+	hidden1_14 -> hidden2_7
+	hidden1_15 -> hidden2_7
+	hidden1_16 -> hidden2_7
+	hidden1_17 -> hidden2_7
+	hidden1_18 -> hidden2_7
+	hidden1_19 -> hidden2_7
+	hidden1_20 -> hidden2_7
+	hidden1_1 -> hidden2_8
+	hidden1_2 -> hidden2_8
+	hidden1_3 -> hidden2_8
+	hidden1_4 -> hidden2_8
+	hidden1_5 -> hidden2_8
+	hidden1_6 -> hidden2_8
+	hidden1_7 -> hidden2_8
+	hidden1_8 -> hidden2_8
+	hidden1_9 -> hidden2_8
+	hidden1_10 -> hidden2_8
+	hidden1_11 -> hidden2_8
+	hidden1_12 -> hidden2_8
+	hidden1_13 -> hidden2_8
+	hidden1_14 -> hidden2_8
+	hidden1_15 -> hidden2_8
+	hidden1_16 -> hidden2_8
+	hidden1_17 -> hidden2_8
+	hidden1_18 -> hidden2_8
+	hidden1_19 -> hidden2_8
+	hidden1_20 -> hidden2_8
+	hidden1_1 -> hidden2_9
+	hidden1_2 -> hidden2_9
+	hidden1_3 -> hidden2_9
+	hidden1_4 -> hidden2_9
+	hidden1_5 -> hidden2_9
+	hidden1_6 -> hidden2_9
+	hidden1_7 -> hidden2_9
+	hidden1_8 -> hidden2_9
+	hidden1_9 -> hidden2_9
+	hidden1_10 -> hidden2_9
+	hidden1_11 -> hidden2_9
+	hidden1_12 -> hidden2_9
+	hidden1_13 -> hidden2_9
+	hidden1_14 -> hidden2_9
+	hidden1_15 -> hidden2_9
+	hidden1_16 -> hidden2_9
+	hidden1_17 -> hidden2_9
+	hidden1_18 -> hidden2_9
+	hidden1_19 -> hidden2_9
+	hidden1_20 -> hidden2_9
+	hidden1_1 -> hidden2_10
+	hidden1_2 -> hidden2_10
+	hidden1_3 -> hidden2_10
+	hidden1_4 -> hidden2_10
+	hidden1_5 -> hidden2_10
+	hidden1_6 -> hidden2_10
+	hidden1_7 -> hidden2_10
+	hidden1_8 -> hidden2_10
+	hidden1_9 -> hidden2_10
+	hidden1_10 -> hidden2_10
+	hidden1_11 -> hidden2_10
+	hidden1_12 -> hidden2_10
+	hidden1_13 -> hidden2_10
+	hidden1_14 -> hidden2_10
+	hidden1_15 -> hidden2_10
+	hidden1_16 -> hidden2_10
+	hidden1_17 -> hidden2_10
+	hidden1_18 -> hidden2_10
+	hidden1_19 -> hidden2_10
+	hidden1_20 -> hidden2_10
+	hidden1_1 -> hidden2_11
+	hidden1_2 -> hidden2_11
+	hidden1_3 -> hidden2_11
+	hidden1_4 -> hidden2_11
+	hidden1_5 -> hidden2_11
+	hidden1_6 -> hidden2_11
+	hidden1_7 -> hidden2_11
+	hidden1_8 -> hidden2_11
+	hidden1_9 -> hidden2_11
+	hidden1_10 -> hidden2_11
+	hidden1_11 -> hidden2_11
+	hidden1_12 -> hidden2_11
+	hidden1_13 -> hidden2_11
+	hidden1_14 -> hidden2_11
+	hidden1_15 -> hidden2_11
+	hidden1_16 -> hidden2_11
+	hidden1_17 -> hidden2_11
+	hidden1_18 -> hidden2_11
+	hidden1_19 -> hidden2_11
+	hidden1_20 -> hidden2_11
+	hidden1_1 -> hidden2_12
+	hidden1_2 -> hidden2_12
+	hidden1_3 -> hidden2_12
+	hidden1_4 -> hidden2_12
+	hidden1_5 -> hidden2_12
+	hidden1_6 -> hidden2_12
+	hidden1_7 -> hidden2_12
+	hidden1_8 -> hidden2_12
+	hidden1_9 -> hidden2_12
+	hidden1_10 -> hidden2_12
+	hidden1_11 -> hidden2_12
+	hidden1_12 -> hidden2_12
+	hidden1_13 -> hidden2_12
+	hidden1_14 -> hidden2_12
+	hidden1_15 -> hidden2_12
+	hidden1_16 -> hidden2_12
+	hidden1_17 -> hidden2_12
+	hidden1_18 -> hidden2_12
+	hidden1_19 -> hidden2_12
+	hidden1_20 -> hidden2_12
+	hidden1_1 -> hidden2_13
+	hidden1_2 -> hidden2_13
+	hidden1_3 -> hidden2_13
+	hidden1_4 -> hidden2_13
+	hidden1_5 -> hidden2_13
+	hidden1_6 -> hidden2_13
+	hidden1_7 -> hidden2_13
+	hidden1_8 -> hidden2_13
+	hidden1_9 -> hidden2_13
+	hidden1_10 -> hidden2_13
+	hidden1_11 -> hidden2_13
+	hidden1_12 -> hidden2_13
+	hidden1_13 -> hidden2_13
+	hidden1_14 -> hidden2_13
+	hidden1_15 -> hidden2_13
+	hidden1_16 -> hidden2_13
+	hidden1_17 -> hidden2_13
+	hidden1_18 -> hidden2_13
+	hidden1_19 -> hidden2_13
+	hidden1_20 -> hidden2_13
+	hidden1_1 -> hidden2_14
+	hidden1_2 -> hidden2_14
+	hidden1_3 -> hidden2_14
+	hidden1_4 -> hidden2_14
+	hidden1_5 -> hidden2_14
+	hidden1_6 -> hidden2_14
+	hidden1_7 -> hidden2_14
+	hidden1_8 -> hidden2_14
+	hidden1_9 -> hidden2_14
+	hidden1_10 -> hidden2_14
+	hidden1_11 -> hidden2_14
+	hidden1_12 -> hidden2_14
+	hidden1_13 -> hidden2_14
+	hidden1_14 -> hidden2_14
+	hidden1_15 -> hidden2_14
+	hidden1_16 -> hidden2_14
+	hidden1_17 -> hidden2_14
+	hidden1_18 -> hidden2_14
+	hidden1_19 -> hidden2_14
+	hidden1_20 -> hidden2_14
+	hidden1_1 -> hidden2_15
+	hidden1_2 -> hidden2_15
+	hidden1_3 -> hidden2_15
+	hidden1_4 -> hidden2_15
+	hidden1_5 -> hidden2_15
+	hidden1_6 -> hidden2_15
+	hidden1_7 -> hidden2_15
+	hidden1_8 -> hidden2_15
+	hidden1_9 -> hidden2_15
+	hidden1_10 -> hidden2_15
+	hidden1_11 -> hidden2_15
+	hidden1_12 -> hidden2_15
+	hidden1_13 -> hidden2_15
+	hidden1_14 -> hidden2_15
+	hidden1_15 -> hidden2_15
+	hidden1_16 -> hidden2_15
+	hidden1_17 -> hidden2_15
+	hidden1_18 -> hidden2_15
+	hidden1_19 -> hidden2_15
+	hidden1_20 -> hidden2_15
+	hidden1_1 -> hidden2_16
+	hidden1_2 -> hidden2_16
+	hidden1_3 -> hidden2_16
+	hidden1_4 -> hidden2_16
+	hidden1_5 -> hidden2_16
+	hidden1_6 -> hidden2_16
+	hidden1_7 -> hidden2_16
+	hidden1_8 -> hidden2_16
+	hidden1_9 -> hidden2_16
+	hidden1_10 -> hidden2_16
+	hidden1_11 -> hidden2_16
+	hidden1_12 -> hidden2_16
+	hidden1_13 -> hidden2_16
+	hidden1_14 -> hidden2_16
+	hidden1_15 -> hidden2_16
+	hidden1_16 -> hidden2_16
+	hidden1_17 -> hidden2_16
+	hidden1_18 -> hidden2_16
+	hidden1_19 -> hidden2_16
+	hidden1_20 -> hidden2_16
+	hidden1_1 -> hidden2_17
+	hidden1_2 -> hidden2_17
+	hidden1_3 -> hidden2_17
+	hidden1_4 -> hidden2_17
+	hidden1_5 -> hidden2_17
+	hidden1_6 -> hidden2_17
+	hidden1_7 -> hidden2_17
+	hidden1_8 -> hidden2_17
+	hidden1_9 -> hidden2_17
+	hidden1_10 -> hidden2_17
+	hidden1_11 -> hidden2_17
+	hidden1_12 -> hidden2_17
+	hidden1_13 -> hidden2_17
+	hidden1_14 -> hidden2_17
+	hidden1_15 -> hidden2_17
+	hidden1_16 -> hidden2_17
+	hidden1_17 -> hidden2_17
+	hidden1_18 -> hidden2_17
+	hidden1_19 -> hidden2_17
+	hidden1_20 -> hidden2_17
+	hidden1_1 -> hidden2_18
+	hidden1_2 -> hidden2_18
+	hidden1_3 -> hidden2_18
+	hidden1_4 -> hidden2_18
+	hidden1_5 -> hidden2_18
+	hidden1_6 -> hidden2_18
+	hidden1_7 -> hidden2_18
+	hidden1_8 -> hidden2_18
+	hidden1_9 -> hidden2_18
+	hidden1_10 -> hidden2_18
+	hidden1_11 -> hidden2_18
+	hidden1_12 -> hidden2_18
+	hidden1_13 -> hidden2_18
+	hidden1_14 -> hidden2_18
+	hidden1_15 -> hidden2_18
+	hidden1_16 -> hidden2_18
+	hidden1_17 -> hidden2_18
+	hidden1_18 -> hidden2_18
+	hidden1_19 -> hidden2_18
+	hidden1_20 -> hidden2_18
+	hidden1_1 -> hidden2_19
+	hidden1_2 -> hidden2_19
+	hidden1_3 -> hidden2_19
+	hidden1_4 -> hidden2_19
+	hidden1_5 -> hidden2_19
+	hidden1_6 -> hidden2_19
+	hidden1_7 -> hidden2_19
+	hidden1_8 -> hidden2_19
+	hidden1_9 -> hidden2_19
+	hidden1_10 -> hidden2_19
+	hidden1_11 -> hidden2_19
+	hidden1_12 -> hidden2_19
+	hidden1_13 -> hidden2_19
+	hidden1_14 -> hidden2_19
+	hidden1_15 -> hidden2_19
+	hidden1_16 -> hidden2_19
+	hidden1_17 -> hidden2_19
+	hidden1_18 -> hidden2_19
+	hidden1_19 -> hidden2_19
+	hidden1_20 -> hidden2_19
+	hidden1_1 -> hidden2_20
+	hidden1_2 -> hidden2_20
+	hidden1_3 -> hidden2_20
+	hidden1_4 -> hidden2_20
+	hidden1_5 -> hidden2_20
+	hidden1_6 -> hidden2_20
+	hidden1_7 -> hidden2_20
+	hidden1_8 -> hidden2_20
+	hidden1_9 -> hidden2_20
+	hidden1_10 -> hidden2_20
+	hidden1_11 -> hidden2_20
+	hidden1_12 -> hidden2_20
+	hidden1_13 -> hidden2_20
+	hidden1_14 -> hidden2_20
+	hidden1_15 -> hidden2_20
+	hidden1_16 -> hidden2_20
+	hidden1_17 -> hidden2_20
+	hidden1_18 -> hidden2_20
+	hidden1_19 -> hidden2_20
+	hidden1_20 -> hidden2_20
+	hidden2_1 -> output_1
+	hidden2_2 -> output_1
+	hidden2_3 -> output_1
+	hidden2_4 -> output_1
+	hidden2_5 -> output_1
+	hidden2_6 -> output_1
+	hidden2_7 -> output_1
+	hidden2_8 -> output_1
+	hidden2_9 -> output_1
+	hidden2_10 -> output_1
+	hidden2_11 -> output_1
+	hidden2_12 -> output_1
+	hidden2_13 -> output_1
+	hidden2_14 -> output_1
+	hidden2_15 -> output_1
+	hidden2_16 -> output_1
+	hidden2_17 -> output_1
+	hidden2_18 -> output_1
+	hidden2_19 -> output_1
+	hidden2_20 -> output_1
+}
