@@ -26,6 +26,8 @@
 
 > 建议uu们在上传的时候建立一个上传文件所在的学院文件夹,便于查看
 
+> 课程/教师主页上列出的内容（请在获得教师许可后上传）
+
 ## 📚 What is uploaded
 <details open>
 <summary><b>📗 Class </b></summary>
