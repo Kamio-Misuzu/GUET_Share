@@ -21,6 +21,11 @@
 
 > 💡 提示：每个分支对应一门课程的资料，请切换到对应分支查看具体内容
 
+
+## ❗Notes
+发现部分文件/文件夹打开之后出现了`Error loading page`的情况，直接刷新界面即可。
+
+
 ## 🤝 Contribution
 希望Guet的uu们能够一起分享！fork后在对应分支进行[pull request](https://github.com/Kamio-Misuzu/GUET_Share/pulls)即可成为contributors，分享你的resource！
 
@@ -103,9 +108,6 @@
 |江西人在桂电 |124266077|
 
 </details>
-
-## ❗注意事项
-发现部分文件夹打开之后出现了`Error loading page`的情况，直接刷新界面即可。
 
 
 ## 💕 Related Works
