@@ -104,6 +104,9 @@
 
 </details>
 
+## ❗注意事项
+发现部分文件夹打开之后出现了`Error loading page`的情况，直接刷新界面即可。
+
 
 ## 💕 Related Works
 
