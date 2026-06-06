@@ -8,7 +8,10 @@
 
 ## 🏫 school website
 - 主网站: `https://www.guet.edu.cn/` 
-- VPN站点: `https://v.guet.edu.cn/` 
+- VPN站点: `https://v.guet.edu.cn/`
+- 毕业论文（设计）管理系统：`https://co2.cnki.net/Login.html?dp=gliet&r=1780736974798`
+- 邮箱入口：`http://mail.guet.edu.cn/`
+
 
 ## ❓How to use
 1. 打开仓库左上角的分支选择器：
