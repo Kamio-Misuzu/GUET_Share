@@ -124,7 +124,7 @@
 - [郑州大学课程复习资料](https://github.com/CooperNiu/ZZU-Courses-Resource)
 - [广东工业大学计算机学院课程攻略](https://github.com/brenner8023/gdut-course)
 - [深圳大学CS本科课程资源共享](https://github.com/Alex-Shen1121/SZU_Learning_Resource)
-
+- [南京中医药大学人工智能与信息技术学院学习资料共享](https://github.com/wuzeto/NJUCM-launch)
   
 ---
 <div align="center">
